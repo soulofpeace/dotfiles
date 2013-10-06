@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/soulofpeace/Documents/workspace/tremor/vhs_previous'
+let g:netrw_dirhist_2='/Users/soulofpeace/Application/vhs/webapps/vhs'
+let g:netrw_dirhist_3='/Users/soulofpeace/Documents/workspace/tremor/trello_presentation'
+let g:netrw_dirhist_4='/Users/soulofpeace/Documents/workspace/codes/labrepl'
+let g:netrw_dirhist_5='/Users/soulofpeace/Documents/workspace/codes/chrome-devtools-zerodarkmatrix-theme/.git'
+let g:netrw_dirhist_6='/Users/soulofpeace/Documents/workspace/tremor/vhn'
+let g:netrw_dirhist_7='/Users/soulofpeace/.m2'
+let g:netrw_dirhist_8='/Users/soulofpeace/.git'
