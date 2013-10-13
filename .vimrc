@@ -15,7 +15,7 @@ set nu
 set cursorline
 set cursorcolumn
 set noerrorbells
-set clipboard+=unnamed
+set clipboard=unnamed
 set mouse=a
 set expandtab
 set wrap linebreak textwidth=0
