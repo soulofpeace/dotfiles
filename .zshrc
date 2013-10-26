@@ -47,7 +47,7 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin
 export JAVA_HOME=$(/usr/libexec/java_home)
-export MAVEN_OPTS="-Xmx512m -XX:MaxPermSize=128m"
+export MAVEN_OPTS="-Xmx1024m -XX:MaxPermSize=256m"
 export NODE_PATH="/usr/local/lib/node_modules/:/usr/local/lib/jsctags"
 alias tmux="TERM=screen-256color-bce tmux"
 eval "$(rbenv init -)"

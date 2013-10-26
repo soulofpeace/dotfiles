@@ -46,3 +46,12 @@
 [submodule ".vim/bundle/vim-hybrid"]
 	path = .vim/bundle/vim-hybrid
 	url = https://github.com/w0ng/vim-hybrid.git
+[submodule "/Users/soulofpeace/.vim/bundle/noctu"]
+	path = /Users/soulofpeace/.vim/bundle/noctu
+	url = git://github.com/noahfrederick/vim-noctu.git
+[submodule "/Users/soulofpeace/.vim/bundle/unite"]
+	path = /Users/soulofpeace/.vim/bundle/unite
+	url = https://github.com/Shougo/unite.vim.git
+[submodule "/Users/soulofpeace/.vim/bundle/vim-distinguished"]
+	path = /Users/soulofpeace/.vim/bundle/vim-distinguished
+	url = https://github.com/Lokaltog/vim-distinguished.git
