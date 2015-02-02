@@ -4,9 +4,6 @@
 [submodule ".vim/bundle/ag.vim"]
 	path = .vim/bundle/ag.vim
 	url = https://github.com/epmatsw/ag.vim.git
-[submodule ".vim/bundle/nerdtree"]
-	path = .vim/bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule ".vim/bundle/nerdcommenter"]
 	path = .vim/bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
@@ -55,3 +52,63 @@
 [submodule "/Users/soulofpeace/.vim/bundle/vim-distinguished"]
 	path = /Users/soulofpeace/.vim/bundle/vim-distinguished
 	url = https://github.com/Lokaltog/vim-distinguished.git
+[submodule ".vim/bundle/supertab"]
+	path = .vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule ".vim/bundle/ack"]
+	path = .vim/bundle/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule ".vim/bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundle/airline"]
+	path = .vim/bundle/airline
+	url = https://github.com/bling/vim-airline.git
+[submodule ".vim/bundle/mustache-handlebars"]
+	path = .vim/bundle/mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
+[submodule ".vim/bundle/tomorrow-theme"]
+	path = .vim/bundle/tomorrow-theme
+	url = https://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule ".vim/bundle/pig.vim"]
+	path = .vim/bundle/pig.vim
+	url = https://github.com/motus/pig.vim.git
+[submodule ".vim/bundle/rainbow_parenthesis"]
+	path = .vim/bundle/rainbow_parenthesis
+	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule ".vim/bundle/vim-go"]
+	path = .vim/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule ".vim/bundle/vim-golang"]
+	path = .vim/bundle/vim-golang
+	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule ".vim/bundle/vim-log-syntax"]
+	path = .vim/bundle/vim-log-syntax
+	url = https://github.com/dzeban/vim-log-syntax.git
+[submodule ".vim/bundle/vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/bundle/seoul256.vim"]
+	path = .vim/bundle/seoul256.vim
+	url = https://github.com/junegunn/seoul256.vim.git
+[submodule ".vim/bundle/neocomplete"]
+	path = .vim/bundle/neocomplete
+	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule ".vim/bundle/vim-hemisu"]
+	path = .vim/bundle/vim-hemisu
+	url = https://github.com/noahfrederick/vim-hemisu.git
+[submodule ".vim/bundle/badwolf"]
+	path = .vim/bundle/badwolf
+	url = https://github.com/sjl/badwolf.git
+[submodule ".vim/bundle/colorschemes"]
+	path = .vim/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule ".vim/bundle/spink"]
+	path = .vim/bundle/spink
+	url = https://github.com/Junza/Spink.git
+[submodule ".vim/bundle/gotham"]
+	path = .vim/bundle/gotham
+	url = https://github.com/whatyouhide/vim-gotham.git
+[submodule ".vim/bundle/vim-vinegar"]
+	path = .vim/bundle/vim-vinegar
+	url = git://github.com/tpope/vim-vinegar.git
